@@ -22,4 +22,4 @@ public class Main {
         System.out.println("Dizinin en küçük elemanı: " + min);
         System.out.println("Dizinin en büyük elemanı: " + max);
     }
-}
+} 
