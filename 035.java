@@ -17,4 +17,4 @@ public class Main {
                 max = a[i];
         System.out.println("Dizinin en büyük elemanı: " + max);
     }
-}
+} 
