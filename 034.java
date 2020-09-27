@@ -11,7 +11,6 @@ public class Main {
         int size, po, pe;
         size = 10;
         po = 0;
-        pe = 0;
 
         for (int i = 0; i < size; i++)
             if (a[i] % 2 != 0) {
