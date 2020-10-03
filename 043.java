@@ -15,7 +15,7 @@ public class Main {
         int size;
         size = 10;
 
-        for (int i = 0; i < size; i++) {
+        for (int i = 0; i < size + 1; i++) {
             for (int k = 0; k < i; k++)
                 System.out.print(a[i] + " ");
             System.out.println();
